@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshalbaid12
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning Node.js
+
 
 
 <!---
